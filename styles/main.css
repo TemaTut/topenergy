@@ -8,7 +8,7 @@ body {
 .wrapper {
   max-width: 1600px;
   padding-top: 20px;
-  padding-right: 20px;
+  margin-left: -40px;
 }
 
 .container {
@@ -81,7 +81,7 @@ body {
 }
 
 .contacts__connect {
-  margin-right: 22px;
+  /* margin-right: 22px; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
