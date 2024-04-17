@@ -7,7 +7,8 @@ body {
 
 .wrapper {
   max-width: 1600px;
-  padding: 20px 200px 0 194px;
+  padding-top: 20px;
+  padding-right: 20px;
 }
 
 .container {
@@ -47,6 +48,7 @@ body {
   margin-top: 10px;
   display: flex;
   max-width: 200px;
+  font-family: 'TT Firs Neue';
   font-size: 13px;
   font-style: italic;
   line-height: 16.77px;
@@ -55,7 +57,7 @@ body {
 
 .top__contacts {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .contacts__call {
@@ -115,7 +117,7 @@ body {
 }
 
 .header__nav {
-  margin-left: 6px;
+  padding-left: 6px;
   display: flex;
   align-items: center;
   font-family: 'TT Firs Neue';
